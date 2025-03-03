@@ -7,8 +7,8 @@
 ### 📧 About me
 
 - 💌 Blog：https://juejin.cn/user/4212984286819384/posts
-- 📧 Email：[1062217965@qq.com](1062217965@qq.com)
-- 📧 Resume： [resume](https://ilcherry.github.io/resume/)
+- 📬 Email：[1062217965@qq.com](1062217965@qq.com)
+- 📧 Resume： [Online Resume](https://ilcherry.github.io/resume/)
 
 ---
 
