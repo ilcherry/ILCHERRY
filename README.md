@@ -8,7 +8,6 @@
 
 - 💌 Blog：https://juejin.cn/user/4212984286819384/posts
 - 📬 Email：[1062217965@qq.com](1062217965@qq.com)
-- 📧 Resume： [Online Resume](https://ilcherry.github.io/resume/)
 
 ---
 
