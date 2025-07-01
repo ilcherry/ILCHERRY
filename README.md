@@ -1,6 +1,6 @@
 # Hi,I'm ilcherry 👋
 
-7+ years experienced Frontend Engineer | React/Vue Specialist
+8+ years experienced Frontend Engineer | React/Vue Specialist
 
 ---
 
